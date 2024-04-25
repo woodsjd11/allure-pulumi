@@ -1,0 +1,5 @@
+/bin/
+/node_modules/
+
+# local Pulumi config
+Pulumi.dev.yaml
